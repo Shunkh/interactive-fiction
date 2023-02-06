@@ -14,7 +14,14 @@ if path == 'Desert':
 #elif path == 'Jungle':
 
 
-#else:
+elif path == 'Volcano':
+    print("As the king and his platoon began their ascend to the mouth of the volcano they saw an ash cloud form above the mouth as the folcano started erupting. As the volcano erupted they armed themselves with their shields and defended themselves rom the ashes which started melting their shields too using their will and strength the king and his knights rode their  horses with skill and avoided the ashes. They reached the volcano and begin their descend from the mouth to the roots of the world tree")
+    
+    
+         
+    
+  
+      
 
 #Conclusion
 print()
